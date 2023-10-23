@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="weather_forecast:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="weather_forecast.jar">
+      <element id="module-output" name="weather_forecast" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.13.4/jackson-core-2.13.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.13.4/jackson-annotations-2.13.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.13.4.1/jackson-databind-2.13.4.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
