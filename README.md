@@ -16,6 +16,9 @@ Also, I created interfaces for -> "Welcome"/"Loading"/"Wrong input".
 
 P.S: KEEP IN MIND THAT THE DATA THAT IS COLLECTED IS BASED ON THE REAL TIME WEATHER FORECAST, BASICALLY THE WEATHER FORECAST IN THE MOMENT OF THE SEARCH
 For any question, do not hesitate to contact me.
+P.S: KEEP IN MIND TO CHANGE THE PATH OF THE IMAGES BASED ON THE DIRECTORY WHERE YOU SAVE THE PROJECT
+IF YOU USE INTELLIJ, RIGHT CLICK ON IMAGE -> COPY PATH, AND AFTER THAT YOU CAN PASTE AT THE IMAGE ICON OBJECTS
+IF YOU DO NOT USE INTELLIJ , COPY THE PATH MANUALLY, AND AFTER THAT YOU CAN PASTE AT THE IMAGE ICON OBJECTS
 !!  THX FOR THE ATTENTION   !!
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
