@@ -33,7 +33,6 @@ IF YOU DO NOT USE INTELLIJ , COPY THE PATH MANUALLY, AND AFTER THAT YOU CAN PAST
 
 --   LOADING INTERFACE   --
 ![loading](https://github.com/GengiuRobert/Real-Time-Weather-Forecast/assets/127054806/66a87815-e2cb-4463-996a-5ffdd12b5c45)
-
 --   LOADING INTERFACE   --
 
 --   WRONG INPUT INTERFACE   --
