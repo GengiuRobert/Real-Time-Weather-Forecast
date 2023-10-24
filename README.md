@@ -1,7 +1,7 @@
 # Real-Time-Weather-Forecast
 ![Java](https://img.shields.io/badge/Language-Java-orange)
 !!   HELLO EVERYONE   !!
-For this project I just wanted to keep it very simple! This is based on the OpenWeatherMap API (https://openweathermap.org/api) to retrive the data in JSON format.
+For this project I wanted to keep it very simple! This is based on the OpenWeatherMap API (https://openweathermap.org/api) to retrive the data in JSON format.
 To establish the connection to the API , I used the HttpURLConnection java class.
 After that I mapped the data in a JSON object ( to do that I used some dependencies that you can find in the pom.xml file).
 With all the data stored as a String in a JSON object , I stripped the String and collect all the important infos for my ideea.
